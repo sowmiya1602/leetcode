@@ -12,6 +12,7 @@
 | [0268-missing-number](https://github.com/sowmiya1602/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/sowmiya1602/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sowmiya1602/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/sowmiya1602/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,4 +68,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/sowmiya1602/leetcode/tree/main/0053-maximum-subarray/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3903-smallest-stable-index-i](https://github.com/sowmiya1602/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 <!---LeetCode Topics End-->
