@@ -11,6 +11,7 @@
 | [0217-contains-duplicate](https://github.com/sowmiya1602/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/sowmiya1602/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/sowmiya1602/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/sowmiya1602/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sowmiya1602/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/sowmiya1602/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Dynamic Programming
@@ -31,6 +32,7 @@
 | [0217-contains-duplicate](https://github.com/sowmiya1602/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/sowmiya1602/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/sowmiya1602/leetcode/tree/main/0268-missing-number/) | Easy |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/sowmiya1602/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,6 +61,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/sowmiya1602/leetcode/tree/main/0268-missing-number/) | Easy |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/sowmiya1602/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sowmiya1602/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -84,4 +87,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1603-design-parking-system](https://github.com/sowmiya1602/leetcode/tree/main/1603-design-parking-system/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/sowmiya1602/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/sowmiya1602/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/sowmiya1602/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/sowmiya1602/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 <!---LeetCode Topics End-->
